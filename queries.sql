@@ -50,7 +50,7 @@ SELECT * FROM animals ORDER BY id;
 /* Aggregates */
 SELECT * from animals;
 SELECT COUNT(*) AS "Animals_Count" FROM animals;
-SELECT COUNT(*) AS "Escapee_Animals_Count" FROM animals WHERE escape_attempts = 0;
+SELECT COUNT(*) AS "Animals with 0 escape attempts" FROM animals WHERE escape_attempts = 0;
 SELECT AVG(weight_kg) AS "Average_Animal_Weight" FROM animals;
 SELECT neutered, SUM(escape_attempts) AS "All_Escapes" FROM animals GROUP BY neutered;
 SELECT species, MAX(weight_kg) AS "Maximum Weight", MIN(weight_kg) AS "Minimum Weight" FROM animals GROUP BY species;
