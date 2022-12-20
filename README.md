@@ -72,9 +72,8 @@ Clone this repository to your desired folder:
 
 ### 👤 Gustavo Porcilio
 
-- GitHub: [@MarcoAurelioAntonio](https://github.com/MarcoAurelioAntonio)
-- Twitter: [@gustavoporcilio](https://twitter.com/gustavoporcilio)
-- LinkedIn: [Gustavo Porcilio](https://www.linkedin.com/in/gustavo-porcilio-4496a223a/) 
+- GitHub: [@Mhamad-Raad](https://github.com/Mhamad-Raad)
+- LinkedIn: [Mhamad Raad](https://www.linkedin.com/in/mhamad-raad/) 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
