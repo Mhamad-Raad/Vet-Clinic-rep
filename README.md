@@ -70,7 +70,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Author <a name="authors"></a>
 
-### 👤 Gustavo Porcilio
+### 👤 Mhamad Raad
 
 - GitHub: [@Mhamad-Raad](https://github.com/Mhamad-Raad)
 - LinkedIn: [Mhamad Raad](https://www.linkedin.com/in/mhamad-raad/) 
